@@ -1,7 +1,5 @@
 
-<br>
-
-## About The Project
+<h1 style="text-align:center;margin-bottom:50px;">sets&relations</h1>
 
 <br>
 <img src="https://i.ibb.co/G3FgpRV/fss.png" style="display:block;margin:auto;margin-bottom:30px;" width="90%" height="auto">
