@@ -1,11 +1,3 @@
-<br />
-<p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://i.ibb.co/k8dxfcG/logo.png" alt="Logo" width="593" height="98">
-  </a>
-
-  </p>
-</p>
 
 <br>
 
