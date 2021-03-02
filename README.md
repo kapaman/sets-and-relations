@@ -51,4 +51,4 @@ Aman Kapoor - [@kapaman9](https://twitter.com/kapaman9)
 Project Link: [https://reflex-kapaman.vercel.app/](https://reflex-kapaman.vercel.app/)
 
 ### NOTE:
-Please refrain from using the webapp on mobile or small screen devices. It just won't work or it may not look exactly like how it was supposed to.
+Please refrain from using the webapp on mobile or small screen devices. It just won't work or it might not look exactly like how it was supposed to.
