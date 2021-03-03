@@ -13,7 +13,8 @@ let formatter = (str) => {
 let speed;
 speed = .5;
 document.querySelector("#speed").addEventListener('change', (el) => {
-    speed = parseFloat(el.path[0].value)
+    console.log(el.target.value);
+    speed = parseFloat(el.target.value)
     //    console.log(speed)
 })
 document.querySelector(".reset").addEventListener('click', () => {
