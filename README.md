@@ -21,7 +21,7 @@ The website also gives you the option to view an animation that gives a good ide
 
 
 The webapp is live at URL :
-* [https://reflex-kapaman.vercel.app/](https://reflex-kapaman.vercel.app/)
+* [https://reflexx.vercel.app](https://reflexx.vercel.app)
 
 
 
@@ -38,7 +38,7 @@ Deployed with:
 
 Aman Kapoor - [@kapaman9](https://twitter.com/kapaman9)
 
-Project Link: [https://reflex-kapaman.vercel.app/](https://reflex-kapaman.vercel.app/)
+Project Link: [https://reflexx.vercel.app/](https://reflexx.vercel.app/)
 
 ### NOTE:
 Please refrain from using the webapp on mobile or small screen devices. It just won't work or it might not look exactly like how it was supposed to.
